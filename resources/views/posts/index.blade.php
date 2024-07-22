@@ -9,7 +9,7 @@ integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6
   <title>Posts</title>
 </head>
 <body>
-  <nav class="navbar navbar-expand-lg navbar-light bg-warning">
+<nav class="navbar navbar-expand-lg navbar-light bg-warning">
     <div class="container-fluid">
       <a class="navbar-brand h1" href={{ route('posts.index') }}>CRUDPosts</a>
       <div class="justify-end ">
